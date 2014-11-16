@@ -1,0 +1,14 @@
+{
+  "name": "api-testing",
+  "version": "0.0.0",
+  "description": "API test application using APIs from colourlovers.com and hipsterjesus.com",
+  "main": "server.js",
+  "repository": "",
+  "author": "Paul and Cameron",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "superagent": "^0.21.0"
+  }
+}
